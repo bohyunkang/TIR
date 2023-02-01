@@ -7,6 +7,17 @@
 ## Index
 
 목록은 도메인을 따로 구분하지 않고, 다 읽은 시점으로 인덱싱하려고 한다. 연도별로 폴더를 나누고, 월별로 마크다운 파일을 나눈다.
+책의 경우, 연도마다 books 폴더에 책 별로 마크다운 파일을 나눠 기록한다.
+
+### Books
+
+<details>
+  <summary>2023 📚</summary>
+
+  -
+</details>
+
+### Others
 
 <details>
   <summary>2023 📝</summary>
